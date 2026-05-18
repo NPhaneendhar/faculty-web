@@ -68,7 +68,7 @@ const facultyData = [
     category: "member",
     label: "Faculty Member",
     specialization: "Dairy Science, Quality assessment of fortified products",
-    scholar: "https://scholar.google.com/citations?user=3QKqJEoAAAAJ&hl=en&oi=ao",
+    
     photo: "faculty8.png"
   },
   {
